@@ -21,7 +21,6 @@ public class CustomListTest {
         list = new CustomList(context, new ArrayList<>());
         return list;
 
-
     }
 
     @Test
